@@ -8,8 +8,6 @@ $(document).ready(function(){
 		var msg2 = 'Hola!';
 			var msg3 = 'Bonjour!';
 
-		var msg2 = 'YO!!';
-
 
 	$('h1').text(msg2);
 
